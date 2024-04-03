@@ -1,2 +1,12 @@
+
+<<<<<<< HEAD
 Hi good evening all
+<<<<<<< HEAD
 modified in master
+=======
+modified in second
+=======
+
+Hi good evening allllll
+>>>>>>> first
+>>>>>>> second

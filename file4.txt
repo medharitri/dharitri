@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 It is easy to learn
+modified in second branch
+=======
+
+It is easyyyyy
+>>>>>>> first
