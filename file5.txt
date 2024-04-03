@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 It needs a lot of practice
 modified in second branch
 
+=======
+
+Need a lot of practiceeeeee
+>>>>>>> first

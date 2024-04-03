@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 We will learn DevOps
 modified in second branch
+=======
+
+we will learn devopsssssss
+>>>>>>> first

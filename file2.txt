@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Welcome to DevOps
 modified in second branch
+=======
+
+welcome to devopsssss
+>>>>>>> first

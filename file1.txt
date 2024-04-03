@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hi good evening all
 modified in second
+=======
+
+Hi good evening allllll
+>>>>>>> first
